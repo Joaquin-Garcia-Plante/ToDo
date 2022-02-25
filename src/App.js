@@ -79,7 +79,6 @@ function App() {
     backgroundPosition: "center center",
     backgroundAttachment: "fixed",
     backgroundSize: "cover",
-    // height: "100%",
   };
   return (
     <div style={containerStyle}>
